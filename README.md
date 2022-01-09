@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This relies on Tk, which is broken on modern macOS so I can't be bothered fixing it for now. Thx anyhow.
+
 # Internet Tester
 
 Package the app for macOS by running `dobuild.sh`. This'll make InternetTester.app which should be portable.
